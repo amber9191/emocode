@@ -1,0 +1,3 @@
+fear1 0
+fear2 1
+fear3 2
